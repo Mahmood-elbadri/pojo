@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "name": "dodo",
+  "age": 50,
+  "phone": {
+    "ph1": "01099565685",
+    "code": "125"
+  },
+  "player": "Messi"
+}
